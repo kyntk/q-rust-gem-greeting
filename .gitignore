@@ -7,6 +7,7 @@
 /spec/reports/
 /tmp/
 /vendor/
+greeting-*.gem
 
 # Added by cargo
 
