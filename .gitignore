@@ -6,3 +6,9 @@
 /pkg/
 /spec/reports/
 /tmp/
+/vendor/
+
+# Added by cargo
+
+/target
+/Cargo.lock
